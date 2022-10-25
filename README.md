@@ -4,8 +4,8 @@
   <h1>
     Chrystian Melo
   </h1>
-    <p>💻 Software Engineer</p>
-    <p>🎓 Computation Mathematics</p>
+    <p>💻 Software Engineer @ CSR</p>
+    <p>🎓 Computation Mathematics @ UFMG</p>
   <div>
     <h3>Contact</h3>
     <a href = "mailto:meloo.chrys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
