@@ -5,7 +5,7 @@
     Chrystian Melo
   </h1>
     <p>🎓 Computational Mathematics @ UFMG</p>
-    <p>💻 Software Engineer @ CSR</p>
+    <p>💻 Research Software Engineer @ CSR</p>
   <div>
     <h3>Contact</h3>
     <a href = "mailto:meloo.chrys@gmail.com" target="_blank">
