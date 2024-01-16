@@ -4,7 +4,7 @@
   <h1>
     Chrystian Melo
   </h1>
-    <p>🎓 Computational Mathematics @ UFMG</p>
+    <p>🎓 BSc Computational Mathematics @ UFMG</p>
     <p>💻 Research Software Engineer @ CSR</p>
   <div>
   <h3>Links</h3>
