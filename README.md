@@ -1,6 +1,6 @@
 # Chrystian Melo
 
-- 🎓 BSc Computational Mathematics @ [UFMG](http://www.matcomp.dcc.ufmg.br/)
+- 🎓 B.Sc. Computational Mathematics @ [UFMG](http://www.matcomp.dcc.ufmg.br/)
 - 💻 Research Software Engineer @ [CSR](http://csr.ufmg.br/csr/en/)
 
 ## Links
