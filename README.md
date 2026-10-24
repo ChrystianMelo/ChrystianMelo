@@ -6,8 +6,9 @@ I’m a software engineer with a background in Computational Mathematics and exp
 
 From 2020 to 2026, I contributed to **Dinamica EGO** at UFMG’s Centre for Remote Sensing (CSR), developing C++ components and Java tools for environmental modeling. My work included raster processing, shared-memory communication, numerical algorithms, debugging tools, and automated tests.
 
-🎓 B.Sc. in Computational Mathematics at [UFMG](https://www.matcomp.dcc.ufmg.br/) — expected December 2026.  
-📍 Belo Horizonte, Brazil · Open to remote opportunities and relocation.
+🎓 B.Sc. in Computational Mathematics at [UFMG](https://www.matcomp.dcc.ufmg.br/)  — 2026.  
+💻 Technical Diploma in Systems Development at [COLTEC/UFMG](https://www.coltec.ufmg.br/) — 2019.  
+📍 Belo Horizonte, Brazil
 
 ## Technologies
 
