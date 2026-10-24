@@ -16,4 +16,9 @@ From 2020 to 2026, I contributed to **Dinamica EGO** at UFMG’s Centre for Remo
 
 ## Connect
 
-[Portfolio & Contact](https://chrystianmelo.github.io/) · [LinkedIn](https://www.linkedin.com/in/chrystianmelo/)
+<a href="https://chrystianmelo.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/chrystianmelo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
