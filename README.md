@@ -2,9 +2,9 @@
 
 **Software Engineer | C++ & Python | Scientific Computing**
 
-I’m a software engineer with a background in Computational Mathematics and experience developing scientific software, including numerical algorithms, data processing, interprocess communication, and simulation tools.
+I’m a software engineer with a background in Computational Mathematics, focused on C++, Python, and scientific computing.
 
-From 2020 to 2026, I contributed to **Dinamica EGO** at UFMG’s Centre for Remote Sensing (CSR), developing C++ components and Java tools for environmental modeling. My work included raster processing, shared-memory communication, numerical algorithms, debugging tools, and automated tests.
+From 2020 to 2026, I contributed to **Dinamica EGO** at UFMG’s Centre for Remote Sensing (CSR). I implemented shared-memory communication in C++, translated a published mathematical method into geographic grid-cell area calculations, and extended raster loading to support spatial subsets. I also improved the Java workflow editor’s validation logic to prevent invalid reconnection suggestions when removing intermediate components.
 
 🎓 B.Sc. in Computational Mathematics at [UFMG](https://www.matcomp.dcc.ufmg.br/)  — 2026.  
 💻 Technical Diploma in Systems Development at [COLTEC/UFMG](https://www.coltec.ufmg.br/) — 2019.  
