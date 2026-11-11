@@ -9,11 +9,6 @@ Software Engineer with 6+ years of experience developing and improving complex C
 🎓 B.Sc. in Computational Mathematics @ [UFMG](https://www.matcomp.dcc.ufmg.br/) (2026).  
 💻 Technical Diploma in Systems Development @ [COLTEC/UFMG](https://www.coltec.ufmg.br/) (2019).  
 
-## Technologies
-
-**Languages:** C++, Python, Java  
-**Tools & Libraries:** CMake, Git, Linux, GDAL, GEOS, PROJ, NumPy
-
 ## Connect
 
 <a href="https://chrystianmelo.github.io/">
