@@ -4,13 +4,6 @@
 
 Software Engineer with 6+ years of experience developing and improving complex C++ and Java systems, including core components of Dinamica EGO, an internationally used geospatial modeling platform. Experienced in software architecture, concurrency, memory management, debugging and performance optimization. Strong foundation in computer science and applied mathematics, with practical experience in scientific computing and geospatial applications.
 
-## Education
-
-🎓 B.Sc. in Computational Mathematics @ [UFMG](https://www.matcomp.dcc.ufmg.br/) (2026).  
-💻 Technical Diploma in Systems Development @ [COLTEC/UFMG](https://www.coltec.ufmg.br/) (2019).  
-
-## Connect
-
 <a href="https://chrystianmelo.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
 </a>
